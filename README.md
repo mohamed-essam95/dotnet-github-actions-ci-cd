@@ -1,1 +1,1 @@
-# github-actions-course
+# dotnet-github-actions-ci-cd
